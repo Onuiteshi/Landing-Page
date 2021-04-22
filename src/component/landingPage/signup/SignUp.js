@@ -48,7 +48,7 @@ class SignUp extends Component {
                     </div>
 
                     <div  className="position-relative ">
-                        <p className="text-center mx-auto mb-5">By clicking "Next" you agree to our <a href="#">Terms of Service, Privacy Policy,</a> and to receive marketing communications from Envoy.</p>
+                        <p className="text-center mx-auto mb-5">By clicking "Next" you agree to our <a href="https://www.termsfeed.com/blog/sample-terms-and-conditions-template/">Terms of Service, Privacy Policy,</a> and to receive marketing communications from Envoy.</p>
                         <p className="d-inline  ">
                             <span className=" mb-3 text-secondary">Got an Account?</span><Link to="/signin">Sign in</Link>
                         </p>

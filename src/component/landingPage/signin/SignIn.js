@@ -6,7 +6,7 @@ class SignIn extends Component {
     render() {
         return (
             <div className="bg-light   container" style={{borderRadius:"20px"}}>
-                <div className="align-items-center">
+                <div id="xxx" className="align-items-center">
                     <div className="mb-3">
                         <h1>You're Welcome Back!</h1>
                         <p >Enter the following Information below</p>
@@ -24,7 +24,7 @@ class SignIn extends Component {
                     </div>
 
                     <div className="mb-5">
-                        <a  >Forgot password?</a>
+                        <a  href="#xxx">Forgot password?</a>
                     </div>
 
                     {/* login  button */}
