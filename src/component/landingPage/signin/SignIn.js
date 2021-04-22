@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Link, Redirect } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 
 class SignIn extends Component {
@@ -24,7 +24,7 @@ class SignIn extends Component {
                     </div>
 
                     <div className="mb-5">
-                        <a href="#" >Forgot password?</a>
+                        <a  >Forgot password?</a>
                     </div>
 
                     {/* login  button */}
