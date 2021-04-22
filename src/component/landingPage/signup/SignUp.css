@@ -1,0 +1,7 @@
+.form-control:focus {
+    border-color:blue;
+}
+
+input{
+    border-radius: 15px;
+}
